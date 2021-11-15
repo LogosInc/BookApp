@@ -1,6 +1,6 @@
 # BookApp
 
 - RoomDatabase
-- Navigation Component.
-- Contains animations when transition.
+- Navigation Component
+- Transition Animations
 
